@@ -10,8 +10,10 @@ export default function Home() {
       <div>
         <NavBar />
       </div>
-      <div><Caraousal/></div>
       <div>
+        <Caraousal />
+      </div>
+      <div className="m-3">
         <Card />
       </div>
       <div>
